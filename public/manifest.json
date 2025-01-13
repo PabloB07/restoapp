@@ -1,0 +1,54 @@
+{
+    "name": "Vastago Restaurante",
+    "short_name": "VASTAGO",
+    "background_color": "#000000",
+    "display": "fullscreen",
+    "description": "Sistema de gesti\u00f3n Vastago",
+    "theme_color": "#000000",
+    "orientation": "portrait",
+    "categories": [
+        "food",
+        "business"
+    ],
+    "shortcuts": [
+        {
+            "name": "Dashboard",
+            "url": "/dashboard",
+            "icons": [
+                {
+                    "src": "images/vastago_white.png",
+                    "sizes": "96x96",
+                    "type": "image/png",
+                    "purpose": "any maskable"
+                }
+            ]
+        }
+    ],
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "images/vastago_white.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "images/vastago_black.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "images/vastago_white.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "images/vastago_white.png",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
